@@ -81,6 +81,24 @@ header .header-content .header-content-inner p {
 	}
 }
 
+.intro {
+	color:white;
+	background-color:yellowgreen;
+	padding:70px 0;
+	text-align:center;
+}
+
+.content {
+	padding:100px 0;
+}
+
+.content-2 {
+	color: #fff;
+	background-color: #222;
+}
+
+
+
 
 
 
