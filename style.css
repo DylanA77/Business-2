@@ -97,6 +97,63 @@ header .header-content .header-content-inner p {
 	background-color: #222;
 }
 
+.content-3 {
+	padding:20px 0 40px;
+	text-align: center;
+}
+
+.promo,
+.promo h3
+.promo a:link,
+.promo a:visited,
+.promo a:hover,
+.promo a:active {
+	color: white;
+	text-shadow: 0px 0px 40px black;
+	text-decoration: none;
+}
+
+.promo-item {
+	height:200px;
+	line-height:180px;
+	text-align: center;
+}
+
+.promo-item:hover {
+	background-size: 110%;
+	border: 10px solid rgba(255,255,255,0.3);
+	line-height: 160px;
+}
+
+.promo-item h3 {
+	font-size: 40px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.item-1 {
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtLVWUBwjs51djAoZ0FybnjdJWUZ7ZfE3u-A&usqp=CAU);
+}
+
+.item-2 {
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM_JoNXgIKtdK3evB4EuXj_H6FmLO0Ep16QQ&usqp=CAU);
+}
+
+.item-3 {
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93BoV-JfHuImcOZ5pZdU3L-3KdVq1N2VSTg&usqp=CAU);
+}
+
+.item-1,
+.item-2,
+.item-3 {
+	background-size: cover;
+	background-position:50% 50%;
+}
+ 
+
+
+
+
 
 
 
